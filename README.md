@@ -1,2 +1,2 @@
 # darkmatterShell
-an OS simulation
+a secure shell terminal
